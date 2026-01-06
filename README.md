@@ -1,4 +1,4 @@
-# @adonisjs/inertia
+# @5digital/inertia
 
 <br />
 
@@ -6,7 +6,9 @@
 
 ## Introduction
 
-Official [Inertia.js](https://inertiajs.com/) adapter for AdonisJS.
+[Inertia.js](https://inertiajs.com/) adapter for AdonisJS.
+
+This is a fork of the official [@adonisjs/inertia](https://github.com/adonisjs/inertia) package.
 
 ## Official Documentation
 
@@ -20,8 +22,6 @@ The AdonisJS team maintains an Inertia starter kit. This starter kit provides a 
 
 ## Contributing
 
-One of the primary goals of AdonisJS is to have a vibrant community of users and contributors who believes in the principles of the framework.
-
 We encourage you to read the [contribution guide](https://github.com/adonisjs/.github/blob/main/docs/CONTRIBUTING.md) before contributing to the framework.
 
 ## Code of Conduct
@@ -32,10 +32,10 @@ In order to ensure that the AdonisJS community is welcoming to all, please revie
 
 AdonisJS Inertia is open-sourced software licensed under the [MIT license](LICENSE.md).
 
-[gh-workflow-image]: https://img.shields.io/github/actions/workflow/status/adonisjs/inertia/checks.yml?style=for-the-badge
-[gh-workflow-url]: https://github.com/adonisjs/inertia/actions/workflows/checks.yml 'Github action'
-[npm-image]: https://img.shields.io/npm/v/@adonisjs/inertia/latest.svg?style=for-the-badge&logo=npm
-[npm-url]: https://www.npmjs.com/package/@adonisjs/inertia/v/latest 'npm'
+[gh-workflow-image]: https://img.shields.io/github/actions/workflow/status/airiechamorro/inertia-adonis/checks.yml?style=for-the-badge
+[gh-workflow-url]: https://github.com/airiechamorro/inertia-adonis/actions/workflows/checks.yml 'Github action'
+[npm-image]: https://img.shields.io/npm/v/@5digital/inertia/latest.svg?style=for-the-badge&logo=npm
+[npm-url]: https://www.npmjs.com/package/@5digital/inertia/v/latest 'npm'
 [typescript-image]: https://img.shields.io/badge/Typescript-294E80.svg?style=for-the-badge&logo=typescript
 [license-url]: LICENSE.md
-[license-image]: https://img.shields.io/github/license/adonisjs/inertia?style=for-the-badge
+[license-image]: https://img.shields.io/github/license/airiechamorro/inertia-adonis?style=for-the-badge
