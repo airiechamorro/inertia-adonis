@@ -1,7 +1,7 @@
 {
   "name": "@adonisjs/inertia",
   "description": "Official Inertia.js adapter for AdonisJS",
-  "version": "4.0.0-next.16",
+  "version": "4.0.0-next.17",
   "engines": {
     "node": ">=24.0.0"
   },
@@ -159,29 +159,6 @@
         }
       }
     }
-  },
-  "tsdown": {
-    "entry": [
-      "./index.ts",
-      "./src/types.ts",
-      "./src/client/vite.ts",
-      "./src/client/helpers.ts",
-      "./factories/main.ts",
-      "./src/inertia_middleware.ts",
-      "./providers/inertia_provider.ts",
-      "./src/plugins/edge/plugin.ts",
-      "./src/plugins/japa/api_client.ts",
-      "./src/client/react/index.tsx"
-    ],
-    "outDir": "./build",
-    "clean": true,
-    "format": "esm",
-    "minify": "dce-only",
-    "fixedExtension": false,
-    "dts": false,
-    "treeshake": false,
-    "sourcemaps": false,
-    "target": "esnext"
   },
   "c8": {
     "reporter": [
